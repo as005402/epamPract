@@ -1,0 +1,16 @@
+D:\studying\#\epamPract\epamPract\obj\Debug\net5.0\epamPract.GeneratedMSBuildEditorConfig.editorconfig
+D:\studying\#\epamPract\epamPract\obj\Debug\net5.0\epamPract.AssemblyInfoInputs.cache
+D:\studying\#\epamPract\epamPract\obj\Debug\net5.0\epamPract.AssemblyInfo.cs
+D:\studying\#\epamPract\epamPract\obj\Debug\net5.0\epamPract.csproj.CoreCompileInputs.cache
+D:\studying\#\epamPract\epamPract\bin\Debug\net5.0\epamPract.exe
+D:\studying\#\epamPract\epamPract\bin\Debug\net5.0\epamPract.deps.json
+D:\studying\#\epamPract\epamPract\bin\Debug\net5.0\epamPract.runtimeconfig.json
+D:\studying\#\epamPract\epamPract\bin\Debug\net5.0\epamPract.runtimeconfig.dev.json
+D:\studying\#\epamPract\epamPract\bin\Debug\net5.0\epamPract.dll
+D:\studying\#\epamPract\epamPract\bin\Debug\net5.0\ref\epamPract.dll
+D:\studying\#\epamPract\epamPract\bin\Debug\net5.0\epamPract.pdb
+D:\studying\#\epamPract\epamPract\obj\Debug\net5.0\epamPract.dll
+D:\studying\#\epamPract\epamPract\obj\Debug\net5.0\ref\epamPract.dll
+D:\studying\#\epamPract\epamPract\obj\Debug\net5.0\epamPract.pdb
+D:\studying\#\epamPract\epamPract\obj\Debug\net5.0\epamPract.genruntimeconfig.cache
+D:\studying\#\epamPract\epamPract\obj\Debug\net5.0\epamPract.csprojAssemblyReference.cache
